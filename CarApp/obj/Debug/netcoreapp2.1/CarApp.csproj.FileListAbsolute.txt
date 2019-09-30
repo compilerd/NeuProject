@@ -1,0 +1,16 @@
+C:\Users\Ayush.Sinha\source\repos\CarApp\CarApp\obj\Debug\netcoreapp2.1\CarApp.csprojAssemblyReference.cache
+C:\Users\Ayush.Sinha\source\repos\CarApp\CarApp\obj\Debug\netcoreapp2.1\CarApp.csproj.CoreCompileInputs.cache
+C:\Users\Ayush.Sinha\source\repos\CarApp\CarApp\obj\Debug\netcoreapp2.1\CarApp.RazorAssemblyInfo.cache
+C:\Users\Ayush.Sinha\source\repos\CarApp\CarApp\obj\Debug\netcoreapp2.1\CarApp.RazorAssemblyInfo.cs
+C:\Users\Ayush.Sinha\source\repos\CarApp\CarApp\obj\Debug\netcoreapp2.1\CarApp.AssemblyInfoInputs.cache
+C:\Users\Ayush.Sinha\source\repos\CarApp\CarApp\obj\Debug\netcoreapp2.1\CarApp.AssemblyInfo.cs
+C:\Users\Ayush.Sinha\source\repos\CarApp\CarApp\bin\Debug\netcoreapp2.1\CarApp.deps.json
+C:\Users\Ayush.Sinha\source\repos\CarApp\CarApp\bin\Debug\netcoreapp2.1\CarApp.runtimeconfig.json
+C:\Users\Ayush.Sinha\source\repos\CarApp\CarApp\bin\Debug\netcoreapp2.1\CarApp.runtimeconfig.dev.json
+C:\Users\Ayush.Sinha\source\repos\CarApp\CarApp\bin\Debug\netcoreapp2.1\CarApp.dll
+C:\Users\Ayush.Sinha\source\repos\CarApp\CarApp\obj\Debug\netcoreapp2.1\CarApp.RazorTargetAssemblyInfo.cache
+C:\Users\Ayush.Sinha\source\repos\CarApp\CarApp\bin\Debug\netcoreapp2.1\CarApp.pdb
+C:\Users\Ayush.Sinha\source\repos\CarApp\CarApp\bin\Debug\netcoreapp2.1\CarApp.Views.dll
+C:\Users\Ayush.Sinha\source\repos\CarApp\CarApp\obj\Debug\netcoreapp2.1\CarApp.dll
+C:\Users\Ayush.Sinha\source\repos\CarApp\CarApp\obj\Debug\netcoreapp2.1\CarApp.pdb
+C:\Users\Ayush.Sinha\source\repos\CarApp\CarApp\obj\Debug\netcoreapp2.1\CarApp.csproj.CopyComplete
