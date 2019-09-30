@@ -1,0 +1,6 @@
+C:\Users\Ayush.Sinha\poc2\AngularNeuCar\src\obj\Debug\netcoreapp2.1\src.csprojAssemblyReference.cache
+C:\Users\Ayush.Sinha\poc2\AngularNeuCar\src\obj\Debug\netcoreapp2.1\src.csproj.CoreCompileInputs.cache
+C:\Users\Ayush.Sinha\poc2\AngularNeuCar\src\obj\Debug\netcoreapp2.1\src.RazorAssemblyInfo.cache
+C:\Users\Ayush.Sinha\poc2\AngularNeuCar\src\obj\Debug\netcoreapp2.1\src.RazorAssemblyInfo.cs
+C:\Users\Ayush.Sinha\poc2\AngularNeuCar\src\obj\Debug\netcoreapp2.1\src.AssemblyInfoInputs.cache
+C:\Users\Ayush.Sinha\poc2\AngularNeuCar\src\obj\Debug\netcoreapp2.1\src.AssemblyInfo.cs
